@@ -14,8 +14,8 @@ export const routes: Routes = [
     canActivate: [UrlNormalizationGuard],
     data: {
       title: 'Home',
-      description: 'Darshan Bhuva - Full-Stack Developer specializing in Angular, .NET, and modern web technologies. Explore my portfolio, experience, and projects.',
-      keywords: 'Darshan Bhuva, Full-Stack Developer, Angular Developer, .NET Developer, Portfolio, Web Development'
+      description: 'John Smith - Full-Stack Developer specializing in Angular, .NET, and modern web technologies. Explore my portfolio, experience, and projects.',
+      keywords: 'John Smith, Full-Stack Developer, Angular Developer, .NET Developer, Portfolio, Web Development'
     }
   },
   {
@@ -24,8 +24,8 @@ export const routes: Routes = [
     canActivate: [UrlNormalizationGuard],
     data: {
       title: 'About Me',
-      description: 'Learn about Darshan Bhuva, a passionate Full-Stack Developer with expertise in Angular, .NET, and modern web technologies.',
-      keywords: 'About Darshan Bhuva, Full-Stack Developer Background, Angular Developer Profile, .NET Developer Experience'
+      description: 'Learn about John Smith, a passionate Full-Stack Developer with expertise in Angular, .NET, and modern web technologies.',
+      keywords: 'About John Smith, Full-Stack Developer Background, Angular Developer Profile, .NET Developer Experience'
     }
   },
   {
@@ -34,8 +34,8 @@ export const routes: Routes = [
     canActivate: [UrlNormalizationGuard],
     data: {
       title: 'Experience',
-      description: 'Explore Darshan Bhuva\'s professional experience as a Full-Stack Developer. View detailed work history, technical skills, and career achievements.',
-      keywords: 'Darshan Bhuva Experience, Full-Stack Developer Career, Angular Developer Jobs, .NET Developer Experience, Web Development Skills'
+      description: 'Explore John Smith\'s professional experience as a Full-Stack Developer. View detailed work history, technical skills, and career achievements.',
+      keywords: 'John Smith Experience, Full-Stack Developer Career, Angular Developer Jobs, .NET Developer Experience, Web Development Skills'
     }
   },
   {
@@ -44,8 +44,8 @@ export const routes: Routes = [
     canActivate: [UrlNormalizationGuard],
     data: {
       title: 'Projects',
-      description: 'Explore Darshan Bhuva\'s portfolio of innovative web applications and software projects. View detailed case studies of Angular, .NET, and full-stack development work.',
-      keywords: 'Darshan Bhuva Projects, Full-Stack Developer Portfolio, Angular Projects, .NET Applications, Web Development Portfolio'
+      description: 'Explore John Smith\'s portfolio of innovative web applications and software projects. View detailed case studies of Angular, .NET, and full-stack development work.',
+      keywords: 'John Smith Projects, Full-Stack Developer Portfolio, Angular Projects, .NET Applications, Web Development Portfolio'
     }
   },
   {
@@ -54,8 +54,8 @@ export const routes: Routes = [
     canActivate: [UrlNormalizationGuard],
     data: {
       title: 'Contact',
-      description: 'Get in touch with Darshan Bhuva for collaboration opportunities, project inquiries, or professional discussions.',
-      keywords: 'Contact Darshan Bhuva, Hire Full-Stack Developer, Angular Developer Contact, .NET Developer Hire, Web Development Services'
+      description: 'Get in touch with John Smith for collaboration opportunities, project inquiries, or professional discussions.',
+      keywords: 'Contact John Smith, Hire Full-Stack Developer, Angular Developer Contact, .NET Developer Hire, Web Development Services'
     }
   },
   {
@@ -64,8 +64,8 @@ export const routes: Routes = [
     canActivate: [UrlNormalizationGuard],
     data: {
       title: 'Resume',
-      description: 'Download or view Darshan Bhuva\'s professional resume. Comprehensive overview of skills, experience, and achievements as a Full-Stack Developer.',
-      keywords: 'Darshan Bhuva Resume, Full-Stack Developer CV, Angular Developer Resume, .NET Developer CV, Web Developer Resume Download'
+      description: 'Download or view John Smith\'s professional resume. Comprehensive overview of skills, experience, and achievements as a Full-Stack Developer.',
+      keywords: 'John Smith Resume, Full-Stack Developer CV, Angular Developer Resume, .NET Developer CV, Web Developer Resume Download'
     }
   },
   // Legacy hash-based URL redirects

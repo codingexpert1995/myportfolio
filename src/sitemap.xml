@@ -12,8 +12,8 @@
   <priority>1</priority>
   <image:image>
     <image:loc>https://darshanbhuva.vercel.app/assets/logo.jpg</image:loc>
-    <image:title>Darshan Bhuva - Full Stack Developer</image:title>
-    <image:caption>Professional portfolio of Darshan Bhuva, Full-Stack Developer specializing in Angular and .NET</image:caption>
+    <image:title>John Smith - Full Stack Developer</image:title>
+    <image:caption>Professional portfolio of John Smith, Full-Stack Developer specializing in Angular and .NET</image:caption>
   </image:image>
 </url>
 

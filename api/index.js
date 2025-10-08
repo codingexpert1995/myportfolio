@@ -83,7 +83,7 @@ module.exports = async (req, res) => {
         <!DOCTYPE html>
         <html>
         <head>
-          <title>Darshan Bhuva Portfolio</title>
+          <title>John Smith Portfolio</title>
           <meta charset="utf-8">
           <meta name="viewport" content="width=device-width, initial-scale=1">
         </head>

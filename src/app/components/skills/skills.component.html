@@ -49,5 +49,17 @@
             </div>
             }
         </div>
+
+        <h3 class="text-xl font-semibold mb-2 mt-8">Framework</h3>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+            @for (tech of techs; track tech) {
+            <div class="p-4 rounded-lg shadow-md text-center flex flex-col items-center">
+                <img [src]="tech.logo" [alt]="tech.name"
+                    class="h-10 w-10 mb-2  transition-transform duration-300 transform hover:scale-110"
+                    [class.invert]="tech?.isInvertLogo">
+                <span class="font-semibold text-lightest-slate">{{ tech.name }}</span>
+            </div>
+            }
+        </div>
     </div>
 </section>

@@ -35,7 +35,7 @@ export interface BreadcrumbListItem {
 })
 export class SeoService {
   private baseUrl = 'https://darshanbhuva.vercel.app';
-  private siteName = 'Darshan Bhuva';
+  private siteName = 'John Smith';
 
   constructor(
     private meta: Meta,
@@ -70,7 +70,7 @@ export class SeoService {
           const normalizedUrl = this.normalizeUrl(`${this.baseUrl}${url}`);
 
           this.updatePageMetadata({
-            title: routeData['title'] || 'Darshan Bhuva | Full-Stack Developer | Angular & .NET Expert | Portfolio',
+            title: routeData['title'] || 'John Smith | Full-Stack Developer | Angular & .NET Expert | Portfolio',
             description: routeData['description'] || 'Full-Stack Developer Portfolio',
             keywords: routeData['keywords'],
             url: normalizedUrl,
@@ -89,7 +89,7 @@ export class SeoService {
   updatePageMetadata(metadata: PageMetadata): void {
     // Format title with site name
     const formattedTitle = metadata.title === 'Home'
-      ? 'Darshan Bhuva | Full-Stack Developer'
+      ? 'John Smith | Full-Stack Developer'
       : `${metadata.title} – ${this.siteName}`;
 
     // Update title
@@ -182,7 +182,7 @@ export class SeoService {
    */
   updateTitle(title: string): void {
     const formattedTitle = title === 'Home'
-      ? 'Darshan Bhuva | Full-Stack Developer'
+      ? 'John Smith | Full-Stack Developer'
       : `${title} – ${this.siteName}`;
     this.title.setTitle(formattedTitle);
   }
@@ -350,7 +350,7 @@ export class SeoService {
     const breadcrumbs = this.generateBreadcrumbs(route);
 
     this.updatePageMetadata({
-      title: metadata.title || 'Darshan Bhuva | Full-Stack Developer | Angular & .NET Expert | Portfolio',
+      title: metadata.title || 'John Smith | Full-Stack Developer | Angular & .NET Expert | Portfolio',
       description: metadata.description || 'Full-Stack Developer Portfolio',
       url: fullUrl,
       keywords: metadata.keywords,
