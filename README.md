@@ -40,14 +40,13 @@ npm run serve:ssr
 
 ## 🌐 Demo
 
-Check out the site: [https://darshanbhuva.vercel.app](https://darshanbhuva.vercel.app/)
+Check out the site: [https://johnsmith1995.netlify.app/](johnsmith1995.netlify.app/)
 
 ## 📧 Contact
 
 For questions or feedback, feel free to reach out:
-- **Email**: [darshanbhuva57@gmail.com](mailto:darshanbhuva57@gmail.com)
-- **LinkedIn**: [darshan-bhuva](https://www.linkedin.com/in/darshan-bhuva-805170190)
-- **GitHub**: [darshn20](https://github.com/darshn20)
+- **Email**: [titan032000@gmail.com](mailto:titan032000@gmail.com)
+- **GitHub**: [codingexpert1995](https://github.com/codingexpert1995)
 
 ---
 
@@ -55,6 +54,6 @@ For questions or feedback, feel free to reach out:
 
 If you find this portfolio project helpful and wish to use it as a base for your own site, **please give proper credit** by mentioning my name and linking to my website:
 
-> **Inspired by [Darshan Bhuva](https://darshanbhuva.vercel.app)**
+> **Inspired by [John Smith](https://johnsmith1995.netlify.app/)**
 
 Feel free to modify the content and design as needed, but a small attribution goes a long way in supporting and appreciating open-source work. 😊
