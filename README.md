@@ -54,6 +54,6 @@ For questions or feedback, feel free to reach out:
 
 If you find this portfolio project helpful and wish to use it as a base for your own site, **please give proper credit** by mentioning my name and linking to my website:
 
-> **Inspired by [John Smith](https://johnsmith1995.netlify.app/)**
+> **Inspired by [Goran Loncar](https://johnsmith1995.netlify.app/)**
 
 Feel free to modify the content and design as needed, but a small attribution goes a long way in supporting and appreciating open-source work. 😊

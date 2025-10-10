@@ -17,10 +17,10 @@ export class AboutComponent implements OnInit {
 
   ngOnInit(): void {
     this.seoService.updateMetaTags({
-      title: 'About Me – John Smith',
-      description: 'Learn about John Smith, a passionate Full-Stack Developer with expertise in Angular, .NET, and modern web technologies. Discover my journey, skills, and professional background.',
+      title: 'About Me – Goran Loncar',
+      description: 'Learn about Goran Loncar, a passionate Full-Stack Developer with expertise in Angular, .NET, and modern web technologies. Discover my journey, skills, and professional background.',
       url: 'https://darshanbhuva.vercel.app/about',
-      keywords: 'About John Smith, Full-Stack Developer Background, Angular Developer Profile, .NET Developer Experience, Web Developer Skills'
+      keywords: 'About Goran Loncar, Full-Stack Developer Background, Angular Developer Profile, .NET Developer Experience, Web Developer Skills'
     });
   }
 }
