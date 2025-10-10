@@ -40,12 +40,12 @@ npm run serve:ssr
 
 ## 🌐 Demo
 
-Check out the site: [https://johnsmith1995.netlify.app/](johnsmith1995.netlify.app/)
+Check out the site: [https://codingexpert1995.netlify.app/](codingexpert1995.netlify.app/)
 
 ## 📧 Contact
 
 For questions or feedback, feel free to reach out:
-- **Email**: [titan032000@gmail.com](mailto:titan032000@gmail.com)
+- **Email**: [gloncarfl@gmail.com](mailto:gloncarfl@gmail.com)
 - **GitHub**: [codingexpert1995](https://github.com/codingexpert1995)
 
 ---
@@ -54,6 +54,6 @@ For questions or feedback, feel free to reach out:
 
 If you find this portfolio project helpful and wish to use it as a base for your own site, **please give proper credit** by mentioning my name and linking to my website:
 
-> **Inspired by [Goran Loncar](https://johnsmith1995.netlify.app/)**
+> **Inspired by [Goran Loncar](https://codingexpert1995.netlify.app/)**
 
 Feel free to modify the content and design as needed, but a small attribution goes a long way in supporting and appreciating open-source work. 😊

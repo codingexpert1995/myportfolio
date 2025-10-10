@@ -17,10 +17,10 @@ export class ProjectsComponent implements OnInit {
 
   ngOnInit(): void {
     this.seoService.updateMetaTags({
-      title: 'Projects – John Smith',
-      description: 'Explore John Smith\'s portfolio of innovative web applications and software projects. View detailed case studies of Angular, .NET, and full-stack development work.',
+      title: 'Projects – Goran Loncar',
+      description: 'Explore Goran Loncar\'s portfolio of innovative web applications and software projects. View detailed case studies of Angular, .NET, and full-stack development work.',
       url: 'https://darshanbhuva.vercel.app/projects',
-      keywords: 'John Smith Projects, Full-Stack Developer Portfolio, Angular Projects, .NET Applications, Web Development Portfolio, Software Development Projects'
+      keywords: 'Goran Loncar Projects, Full-Stack Developer Portfolio, Angular Projects, .NET Applications, Web Development Portfolio, Software Development Projects'
     });
   }
 }
