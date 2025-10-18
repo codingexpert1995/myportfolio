@@ -1,5 +1,5 @@
 export const environment = {
-    production: true,
-    API_URL: 'https://johnsmithisadev.netlify.app/api',
-    googleAnalyticsId: 'G-5MGTQMM8M5'
-}
+  production: true,
+  API_URL: "https://codingexpert1995.vercel.app/api",
+  googleAnalyticsId: "G-5MGTQMM8M5",
+};

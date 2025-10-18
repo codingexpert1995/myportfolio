@@ -1,7 +1,7 @@
 {
-    "name": "Darshan Bhuva Portfolio",
+    "name": "Goran Loncar Portfolio",
     "short_name": "DB Portfolio",
-    "description": "Full-Stack Developer Portfolio of Darshan Bhuva, specializing in Angular and .NET development",
+    "description": "Full-Stack Developer Portfolio of Goran Loncar, specializing in Angular and .NET development",
     "start_url": "./",
     "id": "./",
     "display": "standalone",
